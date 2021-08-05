@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
    
-    "name": "Auto Rickroll",
+    "name": "FREE VBUCKS",
     "version": "1.0",
-    "description": "Upon clicking any link you have a 1 percent chance of getting rickrolled",
+    "description": "GET FREE VBUCKS 2021 REAL NOT CLICKBAIT NO INSPECT ELEMENT",
    
     "content_scripts": [{
       "js": ["content.js"],
